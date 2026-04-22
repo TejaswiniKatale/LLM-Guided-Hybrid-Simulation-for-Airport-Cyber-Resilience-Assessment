@@ -1,5 +1,11 @@
 # LLM-Guided-Hybrid-Simulation-for-Airport-Cyber-Resilience-Assessment
 
+## Tech Stack
+- Python
+- Pygame
+- JuPedSim
+- LLM integration
+
 Airport systems rely on tightly connected digital and physical components. When cyber disruptions occur, they can impact both service performance and passenger movement. Traditional airport simulation studies often model either service queues or pedestrian flow, but not both together in a way that supports cyber-resilience analysis.
 
 This project combines:
